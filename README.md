@@ -40,7 +40,7 @@ We used Bootstrap's responsive utility classes to add responsive behavior to our
 We used media queries to apply different styles to our layout based on different screen sizes. Media queries allow us to define specific styles for specific screen sizes, ensuring that our layout looks great on all devices.
 
 ## Videos:
-## Food Munch Website responsivness according to different screens
+## Food Munch Website responsivness according to different screen size
 ### Extra Small (XS) - 320px
 
 
