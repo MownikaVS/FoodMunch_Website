@@ -51,16 +51,14 @@ Uploading foodmunch_extra small screen.mp4…
 ### Small (S) - 576px
 
 
-https://github.com/user-attachments/assets/c8cf6b35-b1b4-4fde-bd83-9c9c05acef1a
-
-
-
-https://github.com/user-attachments/assets/1a13d01b-070e-4b0f-9c1b-84d1a136fb89
+https://github.com/user-attachments/assets/c8cf6b35-b1b4-4fde-bd83-9c9c05acef1
 
 
 
 ### Medium (M) - 768px
-![Medium Video](https://user-images.githubusercontent.com/123456/12345678-medium.mp4)
+
+
+https://github.com/user-attachments/assets/f2350f2c-0863-4656-94a0-fcba7807deeb
 
 ### Large (L) - 992px
 ![Large Video](https://user-images.githubusercontent.com/123456/12345678-large.mp4)
