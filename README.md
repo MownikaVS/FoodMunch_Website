@@ -44,14 +44,20 @@ We used media queries to apply different styles to our layout based on different
 ### Extra Small (XS) - 320px
 
 
-Uploading foodmunch_extra small screen.mp4…
+https://github.com/user-attachments/assets/5691769a-ec2f-4763-b5d8-eb57ebdc13f8
+
+
 
 
 
 ### Small (S) - 576px
 
 
-https://github.com/user-attachments/assets/c8cf6b35-b1b4-4fde-bd83-9c9c05acef1
+
+
+https://github.com/user-attachments/assets/51b2cd9e-0780-44e7-bf7a-eb9fcd4b03f4
+
+
 
 
 
@@ -61,10 +67,18 @@ https://github.com/user-attachments/assets/c8cf6b35-b1b4-4fde-bd83-9c9c05acef1
 https://github.com/user-attachments/assets/f2350f2c-0863-4656-94a0-fcba7807deeb
 
 ### Large (L) - 992px
-![Large Video](https://user-images.githubusercontent.com/123456/12345678-large.mp4)
+
+
+https://github.com/user-attachments/assets/1ec84aeb-5d59-4333-9edf-5d94b9c19477
+
+
 
 ### Extra Large (XL) - 1200px
-![Extra Large Video](https://user-images.githubusercontent.com/123456/12345678-extra-large.mp4)
+
+
+https://github.com/user-attachments/assets/b2705336-cb9f-43b9-b8aa-1b76f3254283
+
+
 
 ## Technical Details:
 ### Frontend Framework:
@@ -90,13 +104,5 @@ Bootstrap's responsive utility classes
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/Style/CSS/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-4-blue)](https://getbootstrap.com/)
 
-https://github.com/user-attachments/assets/6659312f-f2c9-4b7b-8b27-c500d0afcc0f
-
-
-
-
-
-
-https://github.com/user-attachments/assets/a09be509-5529-4548-bdaf-e9342ed07b78
 
 
