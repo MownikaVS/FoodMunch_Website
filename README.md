@@ -74,12 +74,6 @@ Bootstrap's responsive utility classes
 ## Project Link:
 [mvsfoodmunchweb.ccbp.tech](http://mvsfoodmunchweb.ccbp.tech)
 
-## Screenshots:
-![Food Munch Website Screenshot](screenshot.png)
-
-## License:
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Badges:
 [![HTML](https://img.shields.io/badge/HTML-5-blue)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/Style/CSS/)
